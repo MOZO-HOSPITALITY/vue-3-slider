@@ -1,9 +1,9 @@
-import ComponentA from './ComponentA.vue'
-import ComponentB from './ComponentB.vue'
+import SliderBase from './slider/SliderBase.vue'
+import SliderItem from './slider/SliderItem.vue'
 import WeirdHeader from './WeirdHeader.vue'
 
 export {
-    ComponentA,
-    ComponentB,
+    SliderBase,
+    SliderItem,
     WeirdHeader
 }

@@ -1,6 +1,6 @@
 {
   "name": "mozo-vue3-slider",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "author": {
     "name": "Tijs Verbeek"
   },
@@ -36,10 +36,10 @@
     "dist"
   ],
   "types": "./dist/types/index.d.ts",
-  "module": "./dist/my-lib.es.js",
+  "module": "./dist/mozo-vue3-slider.es.js",
   "exports": {
     ".": {
-      "import": "./dist/my-lib.es.js"
+      "import": "./dist/mozo-vue3-slider.es.js"
     },
     "./dist/style.css": "./dist/style.css"
   }
